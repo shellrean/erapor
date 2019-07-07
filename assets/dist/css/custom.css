@@ -1,0 +1,28 @@
+/* .navbar {
+    background-color: #E91E63 !important;
+    padding: 10px;
+} */
+#mytable img{
+    width: 30px;
+}
+.scrool {
+    overflow-x: scroll;
+}
+.w-1 {
+    width: 1%;
+}
+.w-10 {
+    width: 10%;
+}
+.w-30 {
+    width: 30%;
+}
+.w-40 {
+    width: 40%;
+}
+.centered {
+    text-align: center !important;
+}
+.pd-1 {
+    padding: 10px;
+}
